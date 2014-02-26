@@ -42,6 +42,10 @@ h2 { font-weight:500; }
      font-family: Dreams;
 }
 
+.about p{
+	 font-family: Dreams;
+}
+
 .jumbotron {
 	text-align:center;
 	padding-top:100px;
