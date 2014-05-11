@@ -261,7 +261,8 @@
 			font-weight: 700;
 		}
 		
-		header.style1 .byline
+		
+.style1 .byline
 		{
 			color: #b1b4b9;
 		}
@@ -923,7 +924,7 @@
 
 	#header-wrapper
 	{
-		background: url('../images/banner.jpg') center center;
+		background: url('../images/2013-08-28 10.09.22.png') center center;
 		background-size: cover;
 	}
 	
